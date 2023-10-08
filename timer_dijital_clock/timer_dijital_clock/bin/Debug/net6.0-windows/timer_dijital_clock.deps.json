@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "timer_dijital_clock/1.0.0": {
+        "runtime": {
+          "timer_dijital_clock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "timer_dijital_clock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

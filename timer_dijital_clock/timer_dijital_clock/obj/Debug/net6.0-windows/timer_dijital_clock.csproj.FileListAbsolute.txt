@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\bin\Debug\net6.0-windows\timer_dijital_clock.exe
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\bin\Debug\net6.0-windows\timer_dijital_clock.deps.json
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\bin\Debug\net6.0-windows\timer_dijital_clock.runtimeconfig.json
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\bin\Debug\net6.0-windows\timer_dijital_clock.dll
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\bin\Debug\net6.0-windows\timer_dijital_clock.pdb
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.AssemblyInfoInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.AssemblyInfo.cs
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.dll
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\refint\timer_dijital_clock.dll
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.pdb
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\timer_dijital_clock.genruntimeconfig.cache
+C:\Users\devra\Desktop\C# Projelerim\timer_dijital_clock\timer_dijital_clock\obj\Debug\net6.0-windows\ref\timer_dijital_clock.dll
